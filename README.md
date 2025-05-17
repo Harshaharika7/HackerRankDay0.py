@@ -6,7 +6,9 @@ HackerRank Day 0: – Hello World Python3 Solution
 
 
 📝 Description
+
 The program:
+
 Reads a full line of input from the user.
 
 Prints the string "Hello, World.".
@@ -53,6 +55,13 @@ How to Run:
  Option 1: With input file Create a file named input.txt with the required input and run: python3 hello_world.py < input.txt
 
  Option 2: Manual input Just run: python3 hello_world.py
+
+
+🏅 HackerRank Score
+
+✅ Challenge Completed
+
+🏆 Points Earned: 30
 
 🔗 HackerRank Challenge Link: HackerRank - Day 0: – Hello World
 
